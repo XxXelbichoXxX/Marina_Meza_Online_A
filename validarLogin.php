@@ -1,4 +1,7 @@
 <?php
+ini_set('display_errors', 0);
+
+
 $usuario=$_POST['usuario'];
 $contraseña=$_POST['contraseña'];
 session_start();

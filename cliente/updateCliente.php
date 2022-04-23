@@ -5,7 +5,7 @@ $con=conectar();
 
 $id_cliente=$_POST['id_cliente'];
 $nombreC=$_POST['nombreC'];
-$apellidoC=$_POST['apellidosC'];
+$apellidoC=$_POST['apellidoC'];
 $telefonoC=$_POST['telefonoC'];
 $correoC=$_POST['correoC'];
 
